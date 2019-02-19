@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{14AA8BCD-DE06-42EA-A46E-86478ABF82BE}"
 	ProjectSection(SolutionItems) = preProject
 		AzureUdrUpdate.sln.licenseheader = AzureUdrUpdate.sln.licenseheader
+		README.md = README.md
 	EndProjectSection
 EndProject
 Global
